@@ -15,6 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
   <build>
     <finalName>webapplication</finalName>
   </build>
